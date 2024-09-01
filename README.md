@@ -1,6 +1,6 @@
 # Bvlgari Watch Product Card
 
-This project is a simple product card for a Bvlgari watch, showcasing its design, features, and pricing.
+This project is a simple product card for a Bvlgari watch, showcasing its design and beauty.
 
 ## Live Demo
 
