@@ -1,0 +1,48 @@
+body {
+  background-image: linear-gradient(
+    to right bottom,
+    #efefef,
+    #b7afbc,
+    #5f566b,
+    #212024,
+    #25262b
+  );
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+ 
+ .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    max-width: 400px;
+    margin: auto;
+    padding:30px;
+    text-align: center;
+    font-family: 'Bentham', serif;
+    background: white
+  }
+  
+  .price {
+    color: white;
+    font-size: 33px;
+    font-family: 'Bentham', serif;
+  }
+  
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 18px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 24px;
+    font-family: 'Bentham', serif;
+  }
+  
+  .card button:hover {
+    opacity: 0.3;
+  }
